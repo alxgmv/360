@@ -1,7 +1,7 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "Wohnzimmer",
+      "id": "0-interyor_360_living",
       "name": "Wohnzimmer",
       "levels": [
         {
@@ -114,7 +114,7 @@ var APP_DATA = {
           "yaw": -0.6536474845378084,
           "pitch": 0.12093957938355082,
           "rotation": 0,
-          "target": "Wohnzimmer"
+          "target": "0-interyor_360_living"
         },
         {
           "yaw": 0.13054907208305622,
