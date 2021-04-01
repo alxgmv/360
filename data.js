@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-interyor_360_living",
-      "name": "interyor_360_living",
+      "name": "Wohnzimmer",
       "levels": [
         {
           "tileSize": 256,
@@ -83,7 +83,7 @@ var APP_DATA = {
     },
     {
       "id": "1-interyor_360_hall",
-      "name": "interyor_360_hall",
+      "name": "Flur",
       "levels": [
         {
           "tileSize": 256,
@@ -146,7 +146,7 @@ var APP_DATA = {
     },
     {
       "id": "2-interyor_360_bedroom",
-      "name": "interyor_360_bedroom",
+      "name": "Schlafzimmer",
       "levels": [
         {
           "tileSize": 256,
